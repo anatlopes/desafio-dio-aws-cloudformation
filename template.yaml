@@ -1,0 +1,6 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Template de estudo para laboratório CloudFormation
+
+Resources:
+  BucketExemplo:
+    Type: AWS::S3::Bucket
