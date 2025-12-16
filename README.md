@@ -3,7 +3,7 @@
 ## DESCRIÇÃO DO PROJETO
 Este repositório foi desenvolvido como parte do **Desafio DIO – AWS CloudFormation**, com o objetivo de consolidar os conhecimentos teóricos sobre **Infraestrutura como Código (IaC)** e o uso do serviço **AWS CloudFormation**.
 
-O projeto possui caráter educacional e tem como finalidade demonstrar compreensão conceitual, organização do conteúdo e clareza na documentação técnica, conforme os critérios de avaliação estabelecidos.
+O desafio tem como finalidade demonstrar compreensão conceitual, organização do conteúdo e clareza na documentação técnica, conforme os critérios de avaliação estabelecidos.
 
 ---
 
@@ -35,7 +35,7 @@ e o controle do ambiente ao longo do tempo.
 ## ESTRUTURA DO REPOSITÓRIO
 - `template.yaml`  
   Arquivo de exemplo utilizado para demonstrar a estrutura básica de um template
-  do AWS CloudFormation, com finalidade educacional.
+  do AWS CloudFormation.
 
 ---
 
@@ -59,8 +59,7 @@ e o controle do ambiente ao longo do tempo.
 
 ## CONCLUSÃO
 Este repositório demonstra o entendimento dos conceitos fundamentais de
-Infraestrutura como Código e do funcionamento do AWS CloudFormation, atendendo
-aos objetivos do desafio e aos critérios de avaliação do instrutor.
+Infraestrutura como Código e do funcionamento do AWS CloudFormation.
 
 
 CONCLUSÃO
