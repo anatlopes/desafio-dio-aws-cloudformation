@@ -11,8 +11,6 @@ O desafio tem como finalidade demonstrar compreensão conceitual, organização 
 - Compreender o conceito de Infraestrutura como Código (IaC)
 - Identificar a estrutura básica de um template do AWS CloudFormation
 - Entender o fluxo de criação e gerenciamento de stacks
-- Aplicar boas práticas de documentação técnica em repositório Git
-- Demonstrar organização e coerência na apresentação do conteúdo
 
 ---
 
@@ -45,15 +43,6 @@ e o controle do ambiente ao longo do tempo.
 3. Criação do Stack
 4. Provisionamento automático dos recursos definidos
 5. Atualização ou exclusão do Stack, quando necessário
-
----
-
-## CRITÉRIOS ATENDIDOS
-- Organização do repositório
-- Clareza na explicação dos conceitos
-- Aderência ao conteúdo proposto no desafio
-- Uso adequado de linguagem técnica
-- Documentação objetiva e estruturada
 
 ---
 
