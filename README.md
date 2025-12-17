@@ -50,6 +50,3 @@ e o controle do ambiente ao longo do tempo.
 Este repositório demonstra o entendimento dos conceitos fundamentais de
 Infraestrutura como Código e do funcionamento do AWS CloudFormation.
 
-
-CONCLUSÃO
-Este repositório demonstra o entendimento dos conceitos fundamentais de Infraestrutura como Código e do funcionamento do AWS CloudFormation, atendendo aos objetivos do desafio.
